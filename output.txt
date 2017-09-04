@@ -1,0 +1,11 @@
+Articles in order of popularity by views:
+Candidate is jerk, alleges rival--338647
+Bears love berries, alleges bear--253801
+Bad things gone, say good people--170098
+Authors in order of popularity by views:
+Ursula La Multa -- 507594
+Rudolf von Treppenwitz -- 423457
+Anonymous Contributor -- 170098
+Markoff Chaney -- 84557
+The date(s) with a percent of error higher than 1% were:
+2016-07-17 -- 2.2626862468027260
